@@ -34,7 +34,7 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 
-os.system("figlet DDos Attack")
+os.system("figlet DDos-Attack")
 
 print("[+] Tool Namee:DDos-Attack")
 
