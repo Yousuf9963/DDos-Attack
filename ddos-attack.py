@@ -56,7 +56,7 @@ print("[+] I hope for you good future and i am willing that you will come high e
 
 print("")
 
-ip = raw_input("IP Target : ")
+ip = input("IP Target : ")
 
 port = input("Port       : ")
 
