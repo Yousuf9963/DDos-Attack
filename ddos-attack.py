@@ -38,15 +38,15 @@ os.system("figlet DDos-Attack")
 
 print("[+] Tool Namee:DDos-Attack")
 
-print("[+] Author:Yousuf Shafi'i Muhammad. Junior Programmer")
+print("[+] Author:Yousuf Shafi'i Muhammad. Junior Programmer.")
 
 print("[+] Version:1.0")
 
-print("[+] Team:Junior Programmers")
+print("[+] Team:Junior Programmers.")
 
-print("[+] Github:https://github.com/Yousuf9963/phone-num-info")
+print("[+] Github:https://github.com/Yousuf9963/phone-num-info.")
 
-print("[+] Follow me on Github: https://github.com/Yousuf9963")
+print("[+] Follow me on Github: https://github.com/Yousuf9963.")
 
 print("[-] Website muhammadabdirahman.wixsite.com/yousuf9963blog.")
 
