@@ -44,7 +44,7 @@ print "Python is a high-level, general-purpose programming language. Its design 
 
 #Banner End
 
-print "[+] Tool Namee:DDos-Attack"
+print "[+] Tool Name:DDos-Attack"
 
 print "[+] Author:Yousuf Shafi'i Muhammad. Junior Programmer."
 
