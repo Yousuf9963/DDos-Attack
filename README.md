@@ -16,7 +16,7 @@ git clone https://github.com/Yousuf9963/DDos-Attack.git
 
 cd DDos-Attack
 
-chmod +x ddos-attack.py
+chmod +x * ddos-attack.py
 
 python3 ddos-attack.py
 
