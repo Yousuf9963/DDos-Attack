@@ -10,7 +10,7 @@ pkg update && pkg upgrade -y
 
 pkg install git
 
-pkg install python3
+pkg install python2
 
 git clone https://github.com/Yousuf9963/DDos-Attack.git
 
@@ -18,6 +18,6 @@ cd DDos-Attack
 
 chmod +x * ddos-attack.py
 
-python3 ddos-attack.py
+python2 ddos-attack.py
 
 # Please Follow me Thank you...
