@@ -1,5 +1,3 @@
-#Copy this code doesn't make you programmer bro!
-
 import sys
 
 import os
@@ -32,13 +30,17 @@ bytes = random._urandom(1490)
 
 #Banner Start
 
-print "\033[1;31;40m___/__ \______ ___ / /____/ /_\033[1;31;40m"
+print "what is Programming ?"
 
-print "\033[1;31;40m__  /_/ /_  __ `/_  __/__  __ |\033[1;31;40m"
+print "Computer programming is the process of performing a particular computation, usually by designing and building an executable computer program. Programming involves tasks such as analysis, generating algorithms, profiling algorithms' accuracy and resource consumption, and the implementation of algorithms."
 
-print "\033[1;31;40m_  _, _/ / /_/ / / /_  _  / / /\033[1;31;40m"
+print "How many programming languages are there in the world ?"
 
-print "\033[1;31;40m/_/ |_|  \__,_/  \__/  /_/ /_/ \033[1;31;40m"
+print "According to the Online Historical Encyclopaedia of Programming Languages, people have created about 8,945 coding languages. Today, various sources report anywhere from 250-2,500 Programming languages, although far fewer rank as top contenders in the commonly used group."
+
+print "What is python ?"
+
+print "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
 
 #Banner End
 
