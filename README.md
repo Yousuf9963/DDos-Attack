@@ -21,3 +21,8 @@ chmod +x * ddos-attack.py
 python2 ddos-attack.py
 
 # Please Follow me Thank you...
+
+
+# Donation
+
+If you want to Donate Kindly click here Thank you.: https://www.buymeacoffee.com/junioprogrammer
